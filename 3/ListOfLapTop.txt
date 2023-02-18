@@ -1,0 +1,12 @@
+1,MSI,Puls GL 76,8,2000,Dos,100000,Grey
+2,ASUS,TUF Gaming,8,512,Windos,70000,Black
+3,HONOR,MagicBook 15,16,512,Linux,80000,White
+4,HONOR,MagicBook 15,32,1000,Windows,90000,White
+5,ASUS,TUF Gaming,16,512,Windows,75000,Black
+6,MSI,Puls GL 76,16,2000,Windows,110000,Black
+7,MSI,Puls GL 76,8,2000,Linux,100000,White
+8,ASUS,TUF Gaming,8,512,Windos,70000,Blue
+9,HONOR,MagicBook 15,16,2000,Linux,100000,blue
+10,HONOR,MagicBook 15,32,1000,Windows,90000,Gold
+11,ASUS,TUF Gaming,32,1000,Windows,75000,Grey
+12,MSI,Puls GL 76,32,2000,Windows,110000,Black
